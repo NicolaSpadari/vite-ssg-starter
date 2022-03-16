@@ -28,6 +28,7 @@
 - [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - file system based routing
 - [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - components auto import
 - [unplugin-auto-import](https://github.com/antfu/unplugin-vue-components) - APIs auto import
+- Custom composable resolver
 - [vite-plugin-windicss](https://github.com/antfu/vite-plugin-windicss) - Windi CSS Integration
 - [@vueuse/core](https://github.com/antfu/vueuse) - useful composition APIs
 - [@vueuse/head](https://github.com/vueuse/head) - manipulate document head reactively
