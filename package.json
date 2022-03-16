@@ -1,0 +1,30 @@
+{
+  "name": "vite-ssg-starter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite-ssg build"
+  },
+  "dependencies": {
+    "@vueuse/core": "^7.7.1",
+    "@vueuse/head": "^0.7.5",
+    "axios": "^0.26.1",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.18.8",
+    "@types/node": "^17.0.21",
+    "@vitejs/plugin-vue": "^2.2.4",
+    "@vue/compiler-sfc": "^3.2.31",
+    "eslint": "^8.11.0",
+    "sass": "^1.49.9",
+    "unplugin-auto-import": "^0.6.6",
+    "unplugin-vue-components": "^0.17.21",
+    "vite": "^2.8.6",
+    "vite-plugin-pages": "^0.21.4",
+    "vite-plugin-windicss": "^1.8.3",
+    "vite-ssg": "^0.17.11"
+  }
+}
